@@ -33,6 +33,8 @@ python tictactoe_qlearning.py
 ```
 
 The agent trains automatically, then you can play against it. Board positions are numbered 0-8.
+## Sample Output
+![image](https://github.com/user-attachments/assets/38ef9d98-c3dd-41ae-b2d8-50185e7e04f6)
 
 ## What's Cool About This
 
